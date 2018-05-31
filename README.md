@@ -7,6 +7,7 @@
 - [ ] Smooth Scrolling
 - [ ] Add other JavaScript Touches
 - [ ] Make more personal
+- [ ] Add new job! :)
 
 ---
 
